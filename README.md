@@ -3,13 +3,13 @@ This project was developed for the 𝗖𝗦𝗘𝟮𝟮𝟰 Digital Logic Design
 
 
 ###  Folder Structure
-carbon-gas-monitoring-system-project/
-│
-├── code-file/
-│   └── carbon_gas_monitoring_system.ino
-│
-├── README.md
-├── circuit-diagram/        (optional)
-│   └── circuit.png
-└── report/                 (optional)
-    └── project-report.pdf
+carbon-gas-monitoring-system-project/  
+│  
+├── code-file/  
+│   └── carbon_gas_monitoring_system.ino  
+│  
+├── README.md  
+├── circuit-diagram/        (optional)  
+│   └── circuit.png  
+└── report/                 (optional)  
+    └── project-report.pdf  
