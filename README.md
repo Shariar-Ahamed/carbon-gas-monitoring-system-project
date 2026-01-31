@@ -3,6 +3,7 @@ This project was developed for the 𝗖𝗦𝗘𝟮𝟮𝟰 Digital Logic Design
 
 
 ###  Folder Structure
+```besh
 carbon-gas-monitoring-system-project/  
 │  
 ├── code-file/  
@@ -13,3 +14,4 @@ carbon-gas-monitoring-system-project/
 │   └── circuit.png  
 └── report/                 (optional)  
     └── project-report.pdf  
+```
