@@ -83,9 +83,11 @@ carbon-gas-monitoring-system-project
 ---
 
 ## 🔌 Circuit Diagram
-```bash
-circuit-diagram/circuit.png
-```
+
+- The circuit diagram of the project is shown below:
+
+![Carbon Gas Monitoring System Circuit](circuit-diagram/circuit.png)
+
 It shows the proper connection between the gas sensor, Arduino board, and alert components.  
 
 ---
