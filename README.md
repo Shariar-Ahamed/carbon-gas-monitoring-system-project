@@ -138,6 +138,7 @@ It shows the proper connection between the gas sensor, Arduino board, and alert 
 
 ---
 
+
 ## Academic Information
 - **Course:** CSE224 – Digital Logic Design Lab  
 - **Department:** Computer Science and Engineering
